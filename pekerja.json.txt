@@ -1,0 +1,6 @@
+{   
+	"nim": 15.01.53.0179,    
+	"nama": "Andin Fatchul Muin Jauhari",    
+	"progdi": "Teknik Informatika",    
+	"mata_kuliah": "Web Servis","Desain Manajemen Jaringan","Keamanan Jaringan"
+}
